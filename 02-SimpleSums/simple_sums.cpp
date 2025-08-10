@@ -2,8 +2,7 @@
 using namespace std;
 
 int main() {
-    // Some Counting
-    // TODO: Implement your logic here
-
+    int a = 5, b = 7;
+    cout << "Sum: " << a + b << endl;
     return 0;
 }

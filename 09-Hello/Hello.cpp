@@ -2,8 +2,8 @@
 using namespace std;
 
 int main() {
-    // Some Counting
-    // TODO: Implement your logic here
+    // Hello
+    cout << "Hello" << endl;
 
     return 0;
 }

@@ -2,7 +2,8 @@
 using namespace std;
 
 int main() {
-    int a = 5, b = 7;
-    cout << "Sum: " << a + b << endl;
+    // Brute Force Attack
+    // TODO: Implement your logic here
+
     return 0;
 }
